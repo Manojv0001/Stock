@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/delete"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Remove From Favourites"
+        android:enabled="false"/>
+
+    <item android:id="@+id/yes"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Yes" />
+
+    <item android:id="@+id/no"
+        android:title="No" />
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string name="quote">Get Quote</string>
+    <string name="clear">Clear</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">CURRENT</string>
+    <string name="tab_text_2">HISTORY</string>
+    <string name="tab_text_3">NEWS</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="facebook_app_id">382722782188295</string>
+    <string name="fb_login_protocol_scheme">fb382722782188295</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
